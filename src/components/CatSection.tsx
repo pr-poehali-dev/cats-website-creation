@@ -1,4 +1,4 @@
-import { CatFeatureCard } from "@/components/CatFeatureCard";
+import CatFeatureCard from "@/components/CatFeatureCard";
 
 const CatSection = () => {
   const features = [
